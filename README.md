@@ -7,8 +7,8 @@
 ##### .NET 7.0 Desktop Runtime (v7.0.8) - Windows x64 Installer
 [Download .NET 7.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
-[SilverBullet](https://cdn.jsdelivr.net/gh/saikothouse/slv@main/images/Screenshot%20(2).png)
-[Openbullet](https://cdn.jsdelivr.net/gh/saikothouse/slv@main/images/Screenshot%20(4).png)
+![SilverBullet](https://cdn.jsdelivr.net/gh/saikothouse/slv@main/images/Screenshot%20(2).png)
+![Openbullet](https://cdn.jsdelivr.net/gh/saikothouse/slv@main/images/Screenshot%20(4).png)
 
 ##### The virustotal link is of the whole .rar file which is not password encrypted, I've also included a link for the executable:
 [VirusTotal Link](https://www.virustotal.com/gui/file/62ef275d396e894861167bd16ffa5fa78773f698447b51315ad84c9c5ff1f0d6)
