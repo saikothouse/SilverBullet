@@ -1,5 +1,7 @@
 # SILVERBULLET PRO 1.4.1
 
+### [SHOP](https://sobkiso.mysellix.io/product/662c3f19ac98b)
+
 ![svbpro](https://cdn.jsdelivr.net/gh/saikothouse/slv@main/images/Screenshot%20(1).png)
 
 ⋅⋅* REQUIREMENT
@@ -12,6 +14,8 @@
 
 ##### The virustotal link is of the whole .rar file which is not password encrypted, I've also included a link for the executable:
 [VirusTotal Link](https://www.virustotal.com/gui/file/62ef275d396e894861167bd16ffa5fa78773f698447b51315ad84c9c5ff1f0d6)
+
+# [Buy From Here](https://sobkiso.mysellix.io/product/662c3f19ac98b)
 
 ##### In addition I've included all "VIP" .espk configs from the channel, which can only be run in SilverBullet Pro and not the free version. 
 ##### These configs are encrypted (NOT BY ME) so run at your own risk, I can't vouch for any of them. However I thought it would be a nice addition to this leak.
